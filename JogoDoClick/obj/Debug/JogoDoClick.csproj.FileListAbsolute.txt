@@ -1,0 +1,32 @@
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.exe.config
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.exe
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.pdb
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csprojAssemblyReference.cache
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.Form1.resources
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.Properties.Resources.resources
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.GenerateResource.cache
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.exe
+C:\Users\WILLIAN\source\repos\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.pdb
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.exe.config
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.exe
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.pdb
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.AssemblyReference.cache
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.SuggestedBindingRedirects.cache
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.Form1.resources
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.Properties.Resources.resources
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.GenerateResource.cache
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.CoreCompileInputs.cache
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.exe
+D:\BackUP\D\POO 3 BIMESTRE DP\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.pdb
+C:\Projetos_C#\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.exe.config
+C:\Projetos_C#\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.exe
+C:\Projetos_C#\JogoDoClick\JogoDoClick\bin\Debug\JogoDoClick.pdb
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.AssemblyReference.cache
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.SuggestedBindingRedirects.cache
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.Form1.resources
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.Properties.Resources.resources
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.GenerateResource.cache
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.csproj.CoreCompileInputs.cache
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.exe
+C:\Projetos_C#\JogoDoClick\JogoDoClick\obj\Debug\JogoDoClick.pdb
