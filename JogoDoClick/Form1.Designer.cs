@@ -52,6 +52,9 @@
             this.panel1.Size = new System.Drawing.Size(300, 270);
             this.panel1.TabIndex = 1;
             // 
+            // timer1
+            // 
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
